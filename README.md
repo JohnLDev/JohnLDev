@@ -1,6 +1,6 @@
 ## :wave: Hey! I'm John Lenon.
 
-I am currently in the second year of **computer engineer** at UFPEL and working at **[LubySoftware](https://www.luby.com.br/)** and **[Moblize](https://www.moblize.com.br/)**  as fullstack **web developer** 
+I am currently in the second year of **computer engineer** at UFPEL and working at **[LubySoftware](https://www.luby.com.br/)** and **[Moblize](https://www.moblize.com.br/)**  as full stack **web developer** 
 ### My social media's:
 
 <p align="left">
